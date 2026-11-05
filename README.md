@@ -1,6 +1,6 @@
-### Hey, I'm Alec
+### Hey, I'm Lec
 
-I'm studying Data Science and Mathematics at the University of Calgary, and I just love building things. Outside of class, most of my time goes into machine learning projects and personal applications that make learning math easier, usually whatever idea I can't stop thinking about that week.
+I'm studying Data Science and Mathematics at the University of Calgary and I enjoy building things. If I am not studying most of my free time goes into machine learning projects and personal applications that make learning math easier, usually whatever idea I can't stop thinking about that week.
 
 **What I've been building**
 
@@ -32,4 +32,4 @@ I'm studying Data Science and Mathematics at the University of Calgary, and I ju
 
 **Currently learning:** SQL, data pipelines, Software fundamentals and how to take models beyond a single app.
 
-Always happy to chat about ML, satellite imagery, or a good game of chess. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alecfranzferrer) or at alecfranzferrer@gmail.com.
+Always happy to chat about Data Science, ML, Math or a good game of chess. Feel free to reach out on alecfranzferrer@gmail.com.
